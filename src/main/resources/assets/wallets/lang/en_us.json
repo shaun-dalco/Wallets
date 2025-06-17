@@ -8,12 +8,12 @@
   "item.wallets.coin_one_hundred": "Platinum Coin",
   "item.wallets.coin_five_hundred": "Equillium Coin",
   "container.wallets.wallet": "Wallet",
-  "text.wallets.wallet.stored": "%s Coins Stored",
+  "text.wallets.wallet.stored": "%s Emeralds Stored",
   "itemGroup.wallets": "Wallets",
-  "text.wallets.take": "Take Coins worth %s",
+  "text.wallets.take": "Take %s Emeralds",
   "text.wallets.create_pouch": "Create %s Coin Pouch",
   "text.wallets.sum_amount": "Total value: %s",
-  "text.wallets.transfer": "Insert %s Coins",
+  "text.wallets.transfer": "Insert %s Emeralds",
   "item.wallets.coin_pouch": "%s Coins",
   "text.wallets.wallet_full": "Wallet is full",
   "text.wallets.take_coin_sum": "Take Sum",
@@ -28,5 +28,6 @@
   "text.wallets.coin.five_hundred": "500",
   "text.wallets.balance": "Balance",
   "text.wallets.deposit": "Deposit",
-  "text.wallets.withdraw": "Withdraw"
+  "text.wallets.withdraw": "Withdraw",
+  "text.wallets.take_emerald": "Take %s Emeralds"
 }

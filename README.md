@@ -1,40 +1,42 @@
-![wallets-title](https://i.ibb.co/gv31kdt/wallets-title.png)
+# Infinite Emerald Wallet Mod
 
-# Wallets for Minecraft Forge
+A simple yet powerful mod for **Minecraft Forge 1.20.1** that introduces a **wallet item** capable of storing **unlimited emeralds**.
+This mod is based off Cheaterpauls work, but redesigns the mechanics to work with emeralds only.
 
-[![](https://cf.way2muchnoise.eu/short_534011_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/wallets)
-[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
-[![](https://badgen.net/maven/v/metadata-url/https/maven.paube.de/releases/de/cheaterpaul/wallets/Wallets/maven-metadata.xml)](https://maven.paube.de/releases/de/cheaterpaul/wallets/Wallets)
+## 🌟 Features
+
+- 🪙 Adds a **wallet** item that can store **unlimited emeralds**
+- 🧺 Frees up inventory space by offloading your emeralds
+- 💚 Great for trading and exploration-heavy gameplay
+
+## 📦 Installation
+
+1. Make sure you have **Minecraft Forge 1.20.1** installed.
+2. Download the latest release of the mod from the [releases page](#).
+3. Place the downloaded `.jar` file into your `mods` folder (`.minecraft/mods`).
+4. Launch the game with the Forge profile.
+
+## 🛠️ Usage
+
+- Craft or obtain the **Wallet** (check JEI or your recipe book if available).
+- Right-click while holding the wallet to **open its GUI**.
+- Insert emeralds manually, or sneak-right-click to **auto-absorb** emeralds from your inventory.
+- The wallet **automatically stacks** all emeralds internally with **no limit**.
+
+## 🔧 Compatibility
+
+- Requires **Minecraft Forge 1.20.1**
+- Should work with most other mods that use standard emerald mechanics
+- JEI-compatible (optional, but recommended for recipe visibility)
+
+## 📜 License
+
+This mod is licensed under the [MIT License](LICENSE).
+
+## 🧑‍💻 Credits
+
+This mod was based off Cheaterpauls work at https://github.com/Cheaterpaul/Wallets
 
 ---
-## Mod Description
 
-This Forge Mod adds a simple coin system. Perfect for servers.
-
-The system works in a way that there are a few different coin item (1 coin, 5 coins, 10 coins, 20 coins, 50 coins, 100 coins, 500 coins) as well as a wallet item that can be used to store all coins.
-
-Interacting with the wallet opens a gui where coins or other wallets can be transferred into the opened wallet. In the gui every kind of coin can be extracted as well as a set coin value. And if that is too much you can even take a coin pouch with a set amount of coins to transfer to another player or wallet.
-
-<img alt="wallet" src="https://i.ibb.co/QCCz8Rc/wallets.png" width="500"/>
-
-## Configuration
-
-- the coin pouch button in the wallet screen can be disabled in the `wallets-server.toml` file in the `serverconfig` directory
-
-## People
-
-- [Cheaterpaul](https://paube.de) Coding
-- [lunofe](https://github.com/lunofe) Idea
-- Random2325 Textures
-- [GridExpert](https://github.com/TheGridExpert) Textures
-
-## Links
-
-[Curseforge](https://www.curseforge.com/minecraft/mc-mods/wallets) Downloads  
-[Github](https://github.com/Cheaterpaul/Wallets) Source  
-[Github/Issues](https://github.com/Cheaterpaul/Wallets/Issues) Issues  
-
-
-## Licence
-
-This Mod is licenced under [LGPLv3](LICENSE)
+Pull requests, suggestions, and forks are welcome!
